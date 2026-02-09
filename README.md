@@ -40,6 +40,3 @@ text
 4. sending_mail notebook → 5-line summary email
 5. CFO inbox: "27 HIGH alerts, €5.1M reallocate, +8% forecast"
 
-6. 
-
-
