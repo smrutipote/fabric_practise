@@ -12,7 +12,6 @@ ERP CSV Drop → OneLake Trigger → Bronze (Raw) → Silver (Clean) → Gold (M
 
                                     
                                     
-                                    <img width="1308" height="299" alt="Screenshot 2026-02-09 at 2 43 40 PM" src="https://github.com/user-attachments/assets/89c50d71-4f6d-4fe5-99b9-6975d12aee25" />
 <img width="1070" height="622" alt="Screenshot 2026-02-09 at 2 45 25 PM" src="https://github.com/user-attachments/assets/f290c655-54e7-4760-8d8d-04c1d4f3528c" />
 
 <img width="1364" height="758" alt="Screenshot 2026-02-09 at 2 49 58 PM" src="https://github.com/user-attachments/assets/7e337cc2-50db-44a9-ba77-3c4d7d8e409e" />
